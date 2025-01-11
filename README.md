@@ -26,7 +26,7 @@
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-%239146FF?style=for-the-badge)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalmeida23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![]()<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hugooo.23) 
