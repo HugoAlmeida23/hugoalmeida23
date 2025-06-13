@@ -5,7 +5,6 @@
 # About Me:
 - 👋 Hi, I’m Hugo Almeida<br>
 - 🇵🇹 Trofa, Porto, Portugal<br>
-- 🎓 Currently studying Telecommunications and IT Engineering at ISEP.
 
 # 💻 Languages and Frameworks:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
