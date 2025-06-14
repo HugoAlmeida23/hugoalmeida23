@@ -27,6 +27,12 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalmeida23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+## 📊 GitHub Analytics
+
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoalmeida23&theme=github_dark)
+![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugoalmeida23&theme=github_dark)
+![Commits por Dia](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugoalmeida23&theme=github_dark&utcOffset=0)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hugooo.23) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-almeida-7a2b32215/) 
