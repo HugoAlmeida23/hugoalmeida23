@@ -24,9 +24,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-%23008DE4?style=for-the-badge)
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-%239146FF?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalmeida23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-
 ## 📊 GitHub Analytics
 
 ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugoalmeida23&theme=github_dark)
